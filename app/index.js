@@ -15,6 +15,6 @@ class AppRouter extends React.Component {
 }
 
 ReactDOM.render(
-	<AppRouter />, 
+	<AppRouter />,
 	document.getElementById('app')
 );
